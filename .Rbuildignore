@@ -1,2 +1,4 @@
 travis.yml$
 ^\.so$
+^.*\.Rproj$
+^\.Rproj\.user$

@@ -5,3 +5,4 @@
 *.gz
 .project
 *.bin
+.Rproj.user
